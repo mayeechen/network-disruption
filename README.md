@@ -20,6 +20,8 @@ This repository contains the code, datasets, and figures used in our paper. It i
 
 * graph_pkl.ipynb: This code reads in a .pkl file and graphs heuristics' performance across three objectives.
 
+* Graphs/: this folder contains the figures used in our paper, which were produced by running the testing files.
+
 ## Running an experiment
 
 To run an experiment, one only needs to run the cells of a notebook that begins with "testing". Each notebook will have a cell specifying how the network is constructed, which can be modified for synthetic experiments. Running all cells will overwrite the .pkl files in the respective folder. These .pkl files can then be read by graph_pkl.ipynb, which can be run to visualize performance. Alternatively, one can call plot_obj within the testing file directly and bypass storing the data.
