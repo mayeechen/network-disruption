@@ -1,4 +1,4 @@
-# network-disruption
+# Network disruption: maximizing disagreement and polarization in social networks
 
 Recent years have seen a marked increase in the spread of misinformation, a phenomenon which has been accelerated and amplified by social media such as Facebook and Twitter. Motivated by this reality, our paper [Network disruption:  maximizing disagreement and polarization in social networks](https://arxiv.org/abs/2003.08377) introduces a model of network disruption where an adversary can take over a limited number of user profiles in a social network with the aim of maximizing disagreement and/or polarization in the network. 
 
