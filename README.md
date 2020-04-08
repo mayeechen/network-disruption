@@ -26,3 +26,12 @@ This repository contains the code, datasets, and figures used in our paper. It i
 
 To run an experiment, one only needs to run the cells of a notebook that begins with "testing". Each notebook will have a cell specifying how the network is constructed, which can be modified for synthetic experiments. Running all cells will overwrite the .pkl files in the respective folder. These .pkl files can then be read by graph_pkl.ipynb, which can be run to visualize performance. Alternatively, one can call plot_obj within the testing file directly and bypass storing the data.
 
+## Citation
+
+Mayee Chen and Miklós Z. Rácz. Network disruption: maximizing disagreement and polarization in social networks. Preprint available at https://arxiv.org/abs/2003.08377, 2020.
+
+> @unpublished{chenracz2020networkdisruption, 
+> title={Network disruption: maximizing disagreement and polarization in social networks}, 
+> author={Chen, Mayee and R{\'a}cz, Mikl{\'o}s Z.}, 
+> year={2020}, 
+> note={Preprint available at \url{https://arxiv.org/abs/2003.08377}}}
