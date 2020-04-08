@@ -18,7 +18,7 @@ This repository contains the code, datasets, and figures used in our paper. It i
 
 * preprocess-twitter/: this folder contains the Twitter data set used by Cameron Musco, Christopher Musco, and Charalampos Tsourakakis in their [paper](https://arxiv.org/abs/1712.09948).
 
-* graph_pkl.ipynb: This code reads in a .pkl file and graphs heuristics' performance across three objectives.
+* graph_pkl.ipynb: This code reads in a .pkl file and plots heuristics' performance across three objectives.
 
 * Figures/: this folder contains the figures used in our paper, which were produced by running the testing files.
 
