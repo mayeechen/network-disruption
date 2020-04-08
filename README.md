@@ -35,3 +35,4 @@ Mayee Chen and Miklós Z. Rácz. Network disruption: maximizing disagreement and
 > author={Chen, Mayee and R{\'a}cz, Mikl{\'o}s Z.}, 
 > year={2020}, 
 > note={Preprint available at \url{https://arxiv.org/abs/2003.08377}}}
+
