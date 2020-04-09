@@ -30,11 +30,11 @@ To run an experiment, one only needs to run the cells of a notebook that begins 
 
 ## Citation
 
-Mayee Chen and Miklós Z. Rácz. Network disruption: maximizing disagreement and polarization in social networks. Preprint available at https://arxiv.org/abs/2003.08377, 2020.
-
-> @unpublished{chenracz2020networkdisruption, 
-> title={Network disruption: maximizing disagreement and polarization in social networks}, 
-> author={Chen, Mayee and R{\'a}cz, Mikl{\'o}s Z.}, 
-> year={2020}, 
-> note={Preprint available at \url{https://arxiv.org/abs/2003.08377}}}
-
+Mayee F. Chen and Miklós Z. Rácz. Network disruption: maximizing disagreement and polarization in social networks. Preprint available at https://arxiv.org/abs/2003.08377, 2020.
+```
+  @unpublished{chenracz2020networkdisruption, 
+  title={Network disruption: maximizing disagreement and polarization in social networks}, 
+  author={Chen, Mayee F. and R{\'a}cz, Mikl{\'o}s Z.}, 
+  year={2020}, 
+  note={Preprint available at \url{https://arxiv.org/abs/2003.08377}}}
+```
